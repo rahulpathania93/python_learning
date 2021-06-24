@@ -1,6 +1,6 @@
 '''
 string = charcters  array
-jhow to write = using single quotes, double and triple quotes
+how to write = using single quotes, double and triple quotes
 NOTE: triples quote is a comment
 '''
 
